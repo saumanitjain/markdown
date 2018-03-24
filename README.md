@@ -41,11 +41,17 @@ cd Desktop
 
 ### Link
 https://pages.github.com/
+
 <https://pages.github.com/>
+
 [GitHub Pages](https://pages.github.com/)
+
 [GitHub Pages](https://pages.github.com/ "tool tip")
+
 [GitHub][1]
+
 [GitHub home ][github]
+
 ### Images
 `![]()`
 ```
@@ -55,10 +61,13 @@ https://pages.github.com/
 ```
 >Example
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+
 Reference-style: 
 ![alt text][logo]
+
 ##### Image link
 [![GitHub](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)](http://github.com)
+
 ### List
 * list item 1
 * list item 1
@@ -75,9 +84,10 @@ Reference-style:
 ##### atliest give 3 slaces as below
 ---
 ### Checklist
-- [X] Done
-- [] WIP
-- [] Pening
+
+* [X] Done
+* [] WIP
+* [] Pening
 
 ### Footer
 [1]: https://pages.github.com/
